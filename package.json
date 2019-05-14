@@ -1,0 +1,25 @@
+{
+  "name": "space-x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmanuelky/Space-X.git"
+  },
+  "keywords": [
+    "express",
+    "graphql",
+    "apollo",
+    "react"
+  ],
+  "author": "Emmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmanuelky/Space-X/issues"
+  },
+  "homepage": "https://github.com/emmanuelky/Space-X#readme"
+}
