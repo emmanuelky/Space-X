@@ -15,9 +15,7 @@
   },
   "keywords": [
     "express",
-    "graphql",
-    "apollo",
-    "react"
+    "graphql"
   ],
   "author": "Emmanuel",
   "license": "ISC",
